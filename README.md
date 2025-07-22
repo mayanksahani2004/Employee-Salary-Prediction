@@ -22,10 +22,11 @@ To develop a predictive model that estimates salaries using historical employee 
 - Interactive web interface built with Streamlit
 
 - Trained and evaluated multiple ML algorithms:
-KNN Regressor
-Decision Tree Regressor
-Random Forest Regressor
-Gradient Boosting Regressor
+  
+1) KNN Regressor
+2) Decision Tree Regressor
+3) Random Forest Regressor
+4) Gradient Boosting Regressor
 
 - Visualization of feature importance and model performance
 

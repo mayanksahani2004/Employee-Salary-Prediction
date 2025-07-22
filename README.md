@@ -1,4 +1,4 @@
-# 💼 Employee Salary Prediction using Machine Learning
+# 💼 Employee Salary Prediction using Machine Learning Algorithms
 This project is an end-to-end machine learning solution to predict employee salaries based on various features like job title, industry, education level, years of experience, location, and more. The model has been deployed as an interactive web application using Streamlit.
 
 <img width="2000" height="808" alt="image" src="https://github.com/user-attachments/assets/db73a200-de87-47b3-a834-c99f0cf4cc8b" />

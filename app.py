@@ -105,4 +105,3 @@ st.markdown(
 # )
 # 🎨 Footer
 st.markdown("---")
-st.markdown("##### ✨ Created by Mayank Sahani as a part of my AI/ML Internship at IBM", unsafe_allow_html=True)
